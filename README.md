@@ -19,7 +19,7 @@ Analisis dilakukan menggunakan **Weighted Laplacian Energy Centrality (WLEC)** d
 ---
 
 ## Hasil
-
+![hasil](flight1.jpeg)
 Hasil analisis menunjukkan bahwa bandara seperti **CGK, KNO, DPS, PKU, dan BPN** memiliki nilai WLEC tertinggi, sedangkan **KJT, BWX, dan MKQ** memiliki nilai terendah.
 
 Berdasarkan analisis dampak penghapusan simpul terhadap struktur jaringan, setiap bandara memiliki tingkat peran yang berbeda dalam menjaga stabilitas struktur jaringan. Bandara **BPN dan CGK** berperan dominan dalam aspek konektivitas global jaringan, sementara **MDC** lebih dominan dalam menjaga konektivitas lokal antarbandara dalam kelompoknya.
